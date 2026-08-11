@@ -115,6 +115,7 @@ High-speed client-side image processing and graphics tools.
 | **HEIC to JPG Converter** | Convert Apple HEIC photos into universally compatible JPGs | [Try HEIC Converter →](https://www.freetoolwise.com/tools/heic-converter) |
 | **AVIF Converter** | Convert images into modern high-efficiency AVIF format | [Try AVIF Converter →](https://www.freetoolwise.com/tools/avif-converter) |
 | **Image Color Picker** | Extract exact color codes (HEX/RGB) from uploaded images | [Try Image Color Picker →](https://www.freetoolwise.com/tools/image-color-picker) |
+| **Image Clipboard** | Search, save, import, export, and copy emoji, sticker, GIF, and image links for Discord & web | [Try Image Clipboard →](https://www.freetoolwise.com/tools/image-clipboard) |
 
 ---
 
@@ -275,7 +276,8 @@ ToolWise — Free Online Tools & Guides Architecture
 │   ├── /tools/password-generator  → Secure Random Password Generator
 │   ├── /tools/qr-generator        → QR Code Creator with SVG Export
 │   ├── /tools/word-counter        → Live Word, Character & Readability Counter
-│   └── /tools/base64-converter    → Base64 Text & Data URI Converter
+│   ├── /tools/base64-converter    → Base64 Text & Data URI Converter
+│   └── /tools/image-clipboard     → Discord & Web Image Clipboard Manager
 │
 └── 📚 Guides & Knowledge Base
     ├── /guides                    → Guides Index & Tutorial Hub
