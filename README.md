@@ -1,13 +1,19 @@
 # 🛠️ FreeToolWise — 259+ Free Online Web Tools, Topic Hubs & Guides
 
-> **FreeToolWise** is a free, lightning-fast, and privacy-first suite of **259+ client-side web utilities**, **16 topic hubs**, and **25 in-depth technical guides**. Designed for developers, writers, designers, students, and digital marketers. **No sign-up. No subscriptions. 100% browser-based & privacy-safe.**
+> **FreeToolWise** is an open, lightning-fast, and privacy-first suite of **259+ client-side web utilities**, **16 topic hubs**, and **25 in-depth technical guides**. Designed for developers, writers, designers, students, and digital creators. **No sign-up. No subscriptions. 100% browser-based & privacy-safe.**
 
 👉 **Launch FreeToolWise Now: [https://www.freetoolwise.com/](https://www.freetoolwise.com/)**
 
 [![FreeToolWise](https://img.shields.io/badge/FreeToolWise-259%2B%20Tools-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.freetoolwise.com/)
+[![GitHub Stars](https://img.shields.io/github/stars/TanbirAhamed/awesome-free-web-tools?style=for-the-badge&logo=github&color=gold)](https://github.com/TanbirAhamed/awesome-free-web-tools/stargazers)
 [![100% Free to Use](https://img.shields.io/badge/Service-100%25%20Free%20to%20Use-success?style=for-the-badge)](https://www.freetoolwise.com/)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Client--Side-emerald?style=for-the-badge)](https://www.freetoolwise.com/privacy-policy)
 [![No Sign Up](https://img.shields.io/badge/Sign%20Up-Not%20Required-orange?style=for-the-badge)](https://www.freetoolwise.com/)
+
+---
+
+### 🌟 Support the Project
+If you find this directory or any of these tools helpful, **please give this repository a Star ⭐ on the top right!** It helps other developers and creators discover these free utilities and keeps the project actively maintained and updated.
 
 ---
 
@@ -26,6 +32,7 @@
 - [⏱️ Productivity, Timers & Clocks](#️-productivity-timers--clocks)
 - [🎮 Fun & Interactive Puzzle Games](#-fun--interactive-puzzle-games)
 - [📚 Technical Guides & Tutorials](#-technical-guides--tutorials)
+- [💡 Suggest a Tool or Request a Feature](#-suggest-a-tool-or-request-a-feature)
 - [🚀 Architecture & Sitemap](#-architecture--sitemap)
 - [🏷️ SEO Keywords & Discoverability Tags](#️-seo-keywords--discoverability-tags)
 
@@ -34,10 +41,10 @@
 ## ⭐ Why Choose FreeToolWise?
 
 - 🔒 **100% Privacy & Zero Server Data Retention**: All PDFs, images, code, and text strings are processed locally inside your browser using WebAssembly, Web Worker threads, and HTML5 Canvas. Your sensitive files never touch remote servers.
-- ⚡ **Instant Execution & Edge CDN Speed**: Powered by Next.js static pre-rendering (SSG), loading tools in under a second with zero lag.
-- 🚫 **No Accounts, Paywalls, or Usage Limits**: Unlimited access to all tools, formats, and downloads without needing to create an account or provide an email.
+- 🖼️ **Free HD Background Remover**: Remove image backgrounds in full HD and 4K quality — no watermarks, no paywalls, and no credit tokens. Export at 4K, 2K, 1080p, or 720p with instant client-side PNG8 quantization.
+- ⚡ **Instant Execution & Edge Speed**: Powered by Next.js static pre-rendering (SSG), loading tools in under a second with zero cold-start latency.
+- 🚫 **No Accounts, Paywalls, or Usage Caps**: Unlimited access to all tools, converters, and export formats without registration.
 - 📱 **Mobile & Desktop Responsive**: Clean user interface tested across mobile phones, tablets, and desktop workstations.
-- 🖼️ **Free HD Background Remover**: Remove backgrounds in full HD and 4K quality — no watermark, no paywall, no credits needed. Export at 4K, 2K, 1080p, or 720p with PNG8 quantization.
 
 ---
 
@@ -244,6 +251,16 @@ Read our expert-reviewed editorial tutorials for best practices on web developme
 
 ---
 
+## 💡 Suggest a Tool or Request a Feature
+
+Have a tool or converter you'd love to see on FreeToolWise?
+- Open a [Feature Request on GitHub](https://github.com/TanbirAhamed/awesome-free-web-tools/issues/new)
+- Or reach out directly via our [Contact Page](https://www.freetoolwise.com/contact)
+
+Community suggestions help us prioritize new tools and improvements!
+
+---
+
 ## 🚀 Architecture & Sitemap
 
 ```text
@@ -300,7 +317,7 @@ FreeToolWise Architecture
 
 ## 🏷️ SEO Keywords & Discoverability Tags
 
-`free-online-tools` `freetoolwise` `web-utilities` `developer-tools` `json-formatter` `image-compressor` `pdf-merger` `pdf-compressor` `word-counter` `grammar-checker` `ai-summarizer` `base64-converter` `youtube-thumbnail-downloader` `loan-emi-calculator` `compound-interest-calculator` `water-sort-puzzle` `privacy-focused-tools` `no-signup-tools` `background-remover-hd` `free-pdf-tools` `ai-writing-tools` `free-image-tools` `online-calculators` `css-generators` `qr-code-generator` `password-generator` `remove-background-free` `hd-bg-remover`
+`free-online-tools` `freetoolwise` `web-utilities` `developer-tools` `json-formatter` `image-compressor` `pdf-merger` `pdf-compressor` `word-counter` `grammar-checker` `ai-summarizer` `base64-converter` `youtube-thumbnail-downloader` `loan-emi-calculator` `compound-interest-calculator` `water-sort-puzzle` `privacy-focused-tools` `no-signup-tools` `background-remover-hd` `free-pdf-tools` `ai-writing-tools` `free-image-tools` `online-calculators` `css-generators` `qr-code-generator` `password-generator` `remove-background-free` `hd-bg-remover` `awesome-list` `awesome-web-tools`
 
 ---
 
