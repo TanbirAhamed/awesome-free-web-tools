@@ -157,6 +157,7 @@ Targeted collections that combine tools, converters, and guides for specific wor
 | **Watermark Remover** | Remove watermarks from images using AI inpainting | [Use Watermark Remover →](https://www.freetoolwise.com/tools/watermark-remover) |
 
 ---
+| **ScanChess** | Converts chess board photos and scoresheet scans into editable FEN/PGN in the browser | [Use ScanChess →](https://scanchess.com) |
 
 ## 📝 Text & Content Manipulation
 
