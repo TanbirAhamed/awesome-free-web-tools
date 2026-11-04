@@ -187,6 +187,7 @@ Targeted collections that combine tools, converters, and guides for specific wor
 | **Currency Converter** | Real-time exchange rates for 150+ currencies worldwide | [Use Currency Converter →](https://www.freetoolwise.com/tools/currency-converter) |
 
 ---
+| **Sticker Cost Per Sheet Calculator** | Computes per-sheet costs for home sticker printers from supply prices, free | [Use Calculator →](https://stickerprinterhub.com/sticker-cost-per-sheet/) |
 
 ## 🎨 Color Palette & CSS Generators
 
