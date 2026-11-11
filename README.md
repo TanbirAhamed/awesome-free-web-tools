@@ -1,10 +1,10 @@
-# 🛠️ FreeToolWise — 259+ Free Online Web Tools, Topic Hubs & Guides
+# 🛠️ FreeToolWise — 264+ Free Online Web Tools, Topic Hubs & Guides
 
-> **FreeToolWise** is an open, lightning-fast, and privacy-first suite of **259+ client-side web utilities**, **16 topic hubs**, and **25 in-depth technical guides**. Designed for developers, writers, designers, students, and digital creators. **No sign-up. No subscriptions. 100% browser-based & privacy-safe.**
+> **FreeToolWise** is an open, lightning-fast, and privacy-first suite of **264+ client-side web utilities**, **16 topic hubs**, and **25 in-depth technical guides**. Designed for developers, writers, designers, students, and digital creators. **No sign-up. No subscriptions. 100% browser-based & privacy-safe.**
 
 👉 **Launch FreeToolWise Now: [https://www.freetoolwise.com/](https://www.freetoolwise.com/)**
 
-[![FreeToolWise](https://img.shields.io/badge/FreeToolWise-259%2B%20Tools-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.freetoolwise.com/)
+[![FreeToolWise](https://img.shields.io/badge/FreeToolWise-264%2B%20Tools-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.freetoolwise.com/)
 [![GitHub Stars](https://img.shields.io/github/stars/TanbirAhamed/awesome-free-web-tools?style=for-the-badge&logo=github&color=gold)](https://github.com/TanbirAhamed/awesome-free-web-tools/stargazers)
 [![100% Free to Use](https://img.shields.io/badge/Service-100%25%20Free%20to%20Use-success?style=for-the-badge)](https://www.freetoolwise.com/)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Client--Side-emerald?style=for-the-badge)](https://www.freetoolwise.com/privacy-policy)
@@ -50,7 +50,7 @@ If you find this directory or any of these tools helpful, **please give this rep
 
 ## 🌐 Category Hubs (14 Core Categories)
 
-Explore all 259 tools neatly categorized into 14 dedicated hubs:
+Explore all 264 tools neatly categorized into 14 dedicated hubs:
 
 | Hub Name | Description & Key Features | Explore Hub |
 | :--- | :--- | :--- |
@@ -101,7 +101,10 @@ Targeted collections that combine tools, converters, and guides for specific wor
 | **AI Summarizer** | Extracts bullet-point summaries and takeaways from long articles & essays | [Use AI Summarizer →](https://www.freetoolwise.com/tools/ai-summarizer) |
 | **Grammar Checker** | Fixes punctuation, spelling, syntax, and phrasing mistakes in real time | [Use Grammar Checker →](https://www.freetoolwise.com/tools/grammar-checker) |
 | **Paraphraser** | Rewrites sentences and paragraphs with adjustable creative tones | [Use Paraphraser →](https://www.freetoolwise.com/tools/paraphraser) |
-| **AI Humanizer** | Refines robotic AI syntax into natural, human-flowing prose | [Use AI Humanizer →](https://www.freetoolwise.com/tools/ai-humanizer) |
+| **AI Humanizer** | Refines robotic AI syntax into natural, human-flowing prose with stealth bypass | [Use AI Humanizer →](https://www.freetoolwise.com/tools/ai-humanizer) |
+| **ChatGPT Overused Words Highlighter** | Detects 119+ AI clichés across 4 categories, cadence & burstiness analyzer, 1-click de-fluff, and seamless transfer to AI Humanizer | [Use Cliché Highlighter →](https://www.freetoolwise.com/tools/chatgpt-overused-words-highlighter) |
+| **DeepSeek Thinking Tag Remover** | Strips `<think>` tags, formats reasoning into collapsible markdown, repairs LaTeX delimiters, and cleans DeepSeek R1 responses | [Use DeepSeek Remover →](https://www.freetoolwise.com/tools/deepseek-think-tag-remover) |
+| **AI Prompt PII Redactor** | Air-gapped bidirectional masking for API keys, emails, cards, and personal names before ChatGPT/Claude with 1-click restore | [Use Prompt PII Redactor →](https://www.freetoolwise.com/tools/ai-prompt-pii-redactor) |
 | **AI Cover Letter Generator** | Creates targeted, professional cover letters tailored to your job descriptions | [Use Cover Letter Writer →](https://www.freetoolwise.com/tools/cover-letter) |
 | **AI Essay Writer** | Generates outlines, structural arguments, and academic thesis drafts | [Use Essay Writer →](https://www.freetoolwise.com/tools/essay-writer) |
 | **AI Blog Post Writer** | Generates SEO-optimized blog posts with headings and structure | [Use Blog Post Writer →](https://www.freetoolwise.com/tools/ai-blog-post-writer) |
@@ -205,6 +208,7 @@ Targeted collections that combine tools, converters, and guides for specific wor
 
 | Tool | Capability & Output | Direct Access |
 | :--- | :--- | :--- |
+| **Lifetime Screen Time Calculator** | Computes full 24-hour years spent on screens, waking life display ratio, opportunity cost stats, 8 luxury glass themes, and 1-click viral HD PNG export | [Use Screen Time Calc →](https://www.freetoolwise.com/tools/screen-time-calculator) |
 | **Timer & Stopwatch** | Countdown timer, stopwatch, and Pomodoro in one tool | [Use Timer →](https://www.freetoolwise.com/tools/timer) |
 | **World Clock** | View current time across multiple time zones simultaneously | [Use World Clock →](https://www.freetoolwise.com/tools/world-clock) |
 | **Time Zone Converter** | Convert time between any two time zones instantly | [Use Time Zone Converter →](https://www.freetoolwise.com/tools/time-zone-converter) |
@@ -218,6 +222,7 @@ Targeted collections that combine tools, converters, and guides for specific wor
 
 | Game | Gameplay & Mechanics | Play Online |
 | :--- | :--- | :--- |
+| **Infinite Emoji Fusion** | Addictive alchemy puzzle combining words & emojis with 600+ craft recipes, real-time multiplayer co-op race rooms, daily rewards, and achievements | [Play Emoji Fusion →](https://www.freetoolwise.com/tools/emoji-fusion) |
 | **Water Sort Puzzle** | 6,000+ levels of liquid sorting with physics-based fluid pours and co-op rooms | [Play Water Sort →](https://www.freetoolwise.com/tools/water-sort) |
 | **2048 Classic** | Combine number tiles on a 4x4 grid to reach the 2048 tile | [Play 2048 →](https://www.freetoolwise.com/tools/2048) |
 | **Minesweeper** | Classic logic grid with custom difficulties and custom flag tracking | [Play Minesweeper →](https://www.freetoolwise.com/tools/minesweeper) |
@@ -317,7 +322,7 @@ FreeToolWise Architecture
 
 ## 🏷️ SEO Keywords & Discoverability Tags
 
-`free-online-tools` `freetoolwise` `web-utilities` `developer-tools` `json-formatter` `image-compressor` `pdf-merger` `pdf-compressor` `word-counter` `grammar-checker` `ai-summarizer` `base64-converter` `youtube-thumbnail-downloader` `loan-emi-calculator` `compound-interest-calculator` `water-sort-puzzle` `privacy-focused-tools` `no-signup-tools` `background-remover-hd` `free-pdf-tools` `ai-writing-tools` `free-image-tools` `online-calculators` `css-generators` `qr-code-generator` `password-generator` `remove-background-free` `hd-bg-remover` `awesome-list` `awesome-web-tools`
+`free-online-tools` `freetoolwise` `web-utilities` `developer-tools` `json-formatter` `image-compressor` `pdf-merger` `pdf-compressor` `word-counter` `grammar-checker` `ai-summarizer` `base64-converter` `youtube-thumbnail-downloader` `loan-emi-calculator` `compound-interest-calculator` `water-sort-puzzle` `infinite-emoji-fusion` `screen-time-calculator` `chatgpt-overused-words` `ai-cliche-detector` `pii-redactor` `deepseek-think-tag-remover` `privacy-focused-tools` `no-signup-tools` `background-remover-hd` `free-pdf-tools` `ai-writing-tools` `free-image-tools` `online-calculators` `css-generators` `qr-code-generator` `password-generator` `remove-background-free` `hd-bg-remover` `awesome-list` `awesome-web-tools`
 
 ---
 
@@ -336,7 +341,7 @@ Reproduction or redistribution of the underlying source code or site infrastruct
 
 <p align="center">
   <a href="https://www.freetoolwise.com/">🌐 Homepage</a> •
-  <a href="https://www.freetoolwise.com/tools">🛠️ All 259+ Tools</a> •
+  <a href="https://www.freetoolwise.com/tools">🛠️ All 264+ Tools</a> •
   <a href="https://www.freetoolwise.com/collections">🎯 Topic Collections</a> •
   <a href="https://www.freetoolwise.com/guides">📚 Technical Guides</a> •
   <a href="https://www.freetoolwise.com/about">ℹ️ About FreeToolWise</a>
